@@ -1,0 +1,12 @@
+.dayToDayText{
+    font-weight: 600;
+    color: #207d5a;
+}
+
+.dayToDayPopup ul{
+    background-color: #b9bd80;
+}
+
+.dayToDayPopup div.MuiPaper-root{
+    box-shadow: 4px 4px black;
+}

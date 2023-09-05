@@ -1,0 +1,27 @@
+{
+  "name": "mui-flask-aws",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev-local": "NODE_ENV=local next dev",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.6",
+    "@mui/material": "^5.14.6",
+    "@mui/x-date-pickers": "^6.12.0",
+    "dayjs": "^1.11.9",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "material-ui-popup-state": "^5.0.9",
+    "next": "13.4.19",
+    "next-client-cookies": "^1.0.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
